@@ -1,16 +1,23 @@
-## Hi there 👋
+# Анастасия
 
-<!--
-**dudddddda55-lgtm/dudddddda55-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Начинающий специалист по автоматизации и веб-проектам.
 
-Here are some ideas to get you started:
+## Чем занимаюсь
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Собираю учебные автоматизации в n8n.
+- Работаю с NocoDB, API и ИИ-инструментами.
+- Изучаю веб-дизайн, UX и создание лендингов.
+
+## Учебные проекты
+
+- **Tracker NordFlow** — MVP трекера задач.
+- **Квиз-бот с ИИ-оценкой** — сбор данных через форму и обработка заявки.
+- **Калькулятор каркасного дома** — настольное приложение для предварительного расчёта стоимости.
+
+## Инструменты
+
+`n8n` · `NocoDB` · `Docker` · `Python` · `HTML` · `CSS` · `JavaScript` · `Figma`
+
+## Контакты
+
+Открыта к учебным и небольшим проектам в сфере автоматизации и веб-разработки.
